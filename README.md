@@ -84,7 +84,7 @@ Pre-defined algorithm to classify user posts by positive, negative, or neutral o
 
 Dashboard & Visualizations
 
-![image](db.png)
+![image](Twitter_dash1.png)
 
 Our dashboard consists of 5 visualizations, providing on-demand analysis of harvested social media content from Twitter and Gettr. Users are able to select from 5 distinct tabs, which segment the data by source type. There are also filters available to target specific themes in the data.
 
